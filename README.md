@@ -9,4 +9,4 @@ __numpy, pandas, sklearn, seaborn and matplotlib are pre-requisite packages__
 3. These feature data files of March must be kept in the cloned repository.
 4. To make predictions for user1 features of March, run estimator_user1, __but please change the name of the feature data file__
 5. Step 4 may be repeated for user2 features of March, with estimator_user2. 
-6. Predictions will get saved as a csv file, with two columns: ['ttime', '']
+6. Predictions will get saved as a csv file (, with two columns: ['ttime', 'pred_sm']
