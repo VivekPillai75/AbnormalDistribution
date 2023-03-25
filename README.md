@@ -1,6 +1,18 @@
 # AbnormalDistribution
 *Welcome to the repository of Team Abnormal Distribution!*
-*please clone this repository*
+
+*this repo is brought to you by:*
+
+*Vivek Pillai : 7760084563*
+
+*Abhiram K : 7338402390*
+
+*Shubh Agarwal : 8707668527*
+
+*Sanjeev N : 9176876296*
+
+
+__*please clone this repository*__
 
 __numpy, pandas, sklearn, seaborn and matplotlib are pre-requisite packages__
 
