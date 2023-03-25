@@ -2,6 +2,8 @@
 *Welcome to the repository of Team Abnormal Distribution!*
 *please clone this repository*
 
+__numpy, pandas, sklearn, seaborn and matplotlib are pre-requisite packages__
+
 1. RFR-user1 and RFR-user2 are jupyter notebooks containing training results using user1 data and user2 data respectively. These two notebooks can be run, they show the performance metrics. 
 2. For predicting March Soil Mosture data, we need the features data (CSV) for March. The format and feature names must be same as in the data given in Problem Statement.
 3. These feature data files of March must be kept in the cloned repository.
